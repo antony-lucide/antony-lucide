@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony</h1>
-<h3 align="center">A techno enthusiast based in Marseille Fan of Programmation</h3>
+<h3 align="center">A techno enthusiast based in Marseille, Fan of Programmation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antony-lucide&label=Profile%20views&color=0e75b6&style=flat" alt="antony-lucide" /> </p>
 
